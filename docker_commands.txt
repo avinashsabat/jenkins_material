@@ -1,0 +1,2 @@
+docker-compose up -d  (this will run the docker compose file)
+docker logs -f container_name (this will show the results of the logs of the running container)
