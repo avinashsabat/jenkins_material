@@ -1,0 +1,9 @@
+sudo yum -y install git
+
+https://jenkinsci.github.io/job-dsl-plugin/#method/javaposse.jobdsl.dsl.jobs.FreeStyleJob.steps --needed for jenkins dsl
+
+https://jenkins.io/doc/book/pipeline/ --jenkins pipeline material
+
+https://crontab.guru/ -- cron expression
+
+https://wiki.jenkins.io/display/JENKINS/Building+a+software+project --environment variables
